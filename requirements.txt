@@ -1,0 +1,17 @@
+requests
+bs4
+igql
+urllib3
+httplib2
+oauth2
+selenium
+apiclient
+bs2json
+pprintpp
+httplib2
+oauth2client
+jsonlib-python3
+pyyaml
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib

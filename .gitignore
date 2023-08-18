@@ -1,0 +1,10 @@
+.gitsecret/**
+__pycache__/**
+geckodriver.log
+*.log
+social/__pycache__/**
+icon.png
+*.pyc
+social/*.pyc
+.gitsecret/keys/random_seed
+/README.md
